@@ -1,6 +1,5 @@
 # Phishing URL Detector Website using ML Models
 
-![Project Logo](url_to_logo.png)
 
 This GitHub repository contains the code and resources for a Phishing URL Detector website, which utilizes machine learning models to predict whether a given URL is a phishing or legitimate website. The process involves acquiring a raw dataset from the Kaggle repository, preprocessing the data to improve its reliability and usefulness for machine learning algorithms.
 
@@ -11,8 +10,6 @@ The primary objective of this project is to create an interactive and responsive
 ## Architecture
 
 The proposed system follows the architecture shown below:
-
-![Architecture](url_to_architecture_diagram.png)
 
 ## Data Preprocessing
 
