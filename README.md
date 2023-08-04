@@ -7,10 +7,6 @@ This GitHub repository contains the code and resources for a Phishing URL Detect
 
 The primary objective of this project is to create an interactive and responsive website that allows users to detect whether a website URL is legitimate or potentially a phishing attempt. The website utilizes a variety of machine learning algorithms, such as Logistic Regression, K-Nearest Neighbors, Support Vector Machine, Naive Bayes Classifier, Decision Tree, Random Forest, Gradient Boosting Classifier, CatBoost Classifier, XGBoost Classifier, and Multi-layer Perceptron.
 
-## Architecture
-
-The proposed system follows the architecture shown below:
-
 ## Data Preprocessing
 
 To ensure the machine learning algorithms can learn effectively from the dataset, the raw data undergoes data cleansing. Junk, missing, or invalid values are removed from the dataset to improve its quality and facilitate better results from the machine learning models.
